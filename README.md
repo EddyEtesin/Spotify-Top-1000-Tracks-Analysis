@@ -57,7 +57,7 @@ The dataset contains 1000 tracks with the following key features:
 - seaborn
 - jupyter
 
-👤 Author
-Etesin Ediomo Usoro 
-Data Analyst | Music Enthusiast
-https://github.com/EddyEtesin
+## 👤 Author
+- Etesin Ediomo Usoro 
+- Data Analyst | Music Enthusiast
+- https://github.com/EddyEtesin
